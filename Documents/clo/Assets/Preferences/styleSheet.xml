@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Style Version="1.0">
+   
+  <ToolButtonIconSize_Mac Width="34" Height="30" />
+  <ToolBarHeight_Mac Value="36" />
+  <ToolButtonIconSize Width="32" Height="28" />
+  <ToolBarHeight Value="34" />
+  <ToolButtonSpacingValue Value="5px" />
+  <BaseIconSize Width="28" Height="28" />
+  <BaseIconSpacingValue Value="1.0" />
+ 
+  <!-- Color for StyleSheet -->
+  <!-- Line Img Path -->
+  <MV_LINE_BASE_IMG_PATH Path=":MarvelousDesigner/Resources/Common/ui_line.svg" />
+  
+  <!-- Font Size -->
+  <MV_MARGIN_SUBITEM_LEFT_SIZE Value="5" />
+  <MV_MARGIN_SUBITEM_RIGHT_SIZE Value="5" />
+  
+  <!-- Font -->
+  <MV_FONT_TITLE_NORMAL_COLOR Value="#DFDFE5" /><!-- 일반 -->
+  <MV_FONT_TAB_NORMAL_COLOR Value="#DFDFE5" /><!-- 일반 -->
+  <MV_FONT_LIST_NORMAL_COLOR Value="#DFDFE5" /><!-- 일반 -->
+  <MV_FONT_LIST_SELECTED_COLOR Value="#DFDFE5" /><!-- 일반 -->
+  <MV_FONT_LIST_READONLY_COLOR Value="#DFDFE5" /><!-- 일반 -->
+  <MV_FONT_BUTTON_NORMAL_COLOR Value="#DFDFE5" /><!-- 일반 -->
+  <MV_FONT_SMALLBUTTON_NORMAL_COLOR Value="#DFDFE5" /><!-- 일반 -->
+  <MV_FONT_DOCK_OVER_COLOR Value="#DFDFE5" /><!-- 일반 -->
+  <MV_FONT_LIST_DISABLED_COLOR Value="#4F4F52" /><!-- 비활성 -->
+  <MV_FONT_MENU_SELECTED_COLOR Value="#66CCFF" /><!-- 대메뉴선택 -->
+  <MV_FONT_INPUTBOX_ERROR_COLOR Value="#FB4747" /><!-- 에러 -->
+  <MV_FONT_SPLASH_VER_COLOR Value="#999999"	/><!-- splash version -->
+  <MV_FONT_ABOUT_STR_COLOR Value="#595959"	/><!-- about string -->
+  <MV_FONT_INSDIE_FOLD_COLOR Value="#EA5151"  /><!-- Pleats Fold string -->
+  <MV_FONT_OUTSDIE_FOLD_COLOR Value="#148096"  /><!-- Pleats Fold string -->
+  
+  <!-- Hight Light -->
+  <MV_HIGHLIGHT_PROPERTY_COLOR Value="#DFDFE5" /><!-- 모든창의 타이틀 컬러 ex. Favorites -->
+  <MV_HIGHLIGHT_LIST_COLOR Value="#36414C" /><!-- 선택시 깔리는 배경 하이라이트 -->
+  <MV_HIGHLIGHT_TREE_LIST_COLOR Value="#36414C" /><!-- 선택시 깔리는 배경 하이라이트 -->
+  <MV_HIGHLIGHT_THUMBNAIL_LIST_COLOR Value="#36414C" /><!-- 선택시 깔리는 배경 하이라이트 -->
+  <MV_HIGHLIGHT_GROUP_COLOR Value="#66CCFF" /><!-- 속성창 카테고리 하이라이트 폰트 컬러 -->
+  <MV_HIGHLIGHT_GROUP_2DEPTH_COLOR Value="#66CCFF" /><!-- 속성창 카테고리 하이라이트 폰트 컬러 -->
+  <MV_VIDEO_CAPTURE_HIGHLIGHT_COLOR Value="#36414C" /><!-- 선택시 깔리는 배경 하이라이트 -->
+  
+  <!-- Color -->
+  <MV_GRID_SLIDER_VALUE Value="160.0" />
+  <MV_CENTER_GRID_SLIDER_VALUE Value="80.0" />
+  
+  <!-- BG -->
+  <MV_BG_BASE_1DEPTH_COLOR Value="#2D2D2E" /><!-- 일반 -->
+  <MV_BG_BASE_2DEPTH_COLOR Value="#2D2D2E" /><!-- 일반 -->
+  <MV_BG_BASE_3DEPTH_COLOR Value="#252526" /><!-- 라이브러리등의 최하위 뎁스 배경 -->
+  <MV_BG_BASE_4DEPTH_COLOR Value="#2D2D2E" /><!-- 일반 -->
+  <MV_BG_POPUP_3DEPTH_COLOR Value="#252526" /><!-- 팝업의 최하위 뎁스 배경 -->
+  <MV_BG_TOOLBAR_NORMAL_COLOR Value="#2D2D2E" /><!-- 일반 -->
+  <MV_BG_INPUTBOX_NORMAL_COLOR Value="#222224" /><!-- 인풋 배경 -->
+  <MV_BG_INPUTBOX_FABRICNAME_COLOR Value="#222224" /><!-- 인풋, 드롭다운박스 배경 -->
+  <MV_BG_MAIN_TITLEBAR_COLOR Value="#2D2D2E" /><!-- 대 타이틀바 배경 -->
+  <MV_BG_TITLEBAR_COLOR Value="#1E1E20" /><!-- 위젯 타이틀바 배경 -->
+  
+  <!-- ToolBar -->
+  <MV_BORDER_TOOLBAR_TOP_1DEPTH_COLOR Value="#363638" />
+  <MV_BORDER_TOOLBAR_BOTTOM_1DEPTH_COLOR Value="#252526" />
+  
+  <!-- Line -->
+  <MV_BORDER_BASE_NORMAL_COLOR Value="#18181A" /><!-- 전체 윈도우창 보더 -->
+  <MV_BORDER_TOP_1DEPTH_COLOR Value="#111112" /> <!-- 인풋 음영 -->
+  <MV_BORDER_BOTTOM_1DEPTH_COLOR Value="#373738" /><!-- 인풋 음영 -->
+  <MV_BORDER_TOP_POPUP_COLOR Value="#111112" /><!-- 인풋 음영 -->
+  <MV_BORDER_BOTTOM_POPUP_COLOR Value="#373738" /><!-- 인풋 음영 -->
+  
+  <!-- Tab -->
+  <MV_BG_TAB_SELECTED_COLOR Value="qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #3E3E40, stop: 0.34 #343436, stop: 0.35 #343436, stop: 1 #2D2D2E)" /><!-- 탭 on -->
+  <MV_BORDER_TAB_TOP_COLOR Value="#49494C" />
+  <MV_BORDER_TAB_BOTTOM_COLOR Value="#2D2D2E" />
+  <MV_BORDER_TAB_LEFT_COLOR Value="qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #49494C, stop: 1 #2D2D2F)" />
+  
+  <!-- Popup Tab -->
+  <MV_BG_TAB_POPUP_SELECTED_COLOR Value="qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #3E3E40, stop: 0.34 #343436, stop: 0.35 #343436, stop: 1 #2D2D2E)" /><!-- 탭 on -->
+  <MV_BORDER_TAB_POPUP_TOP_SELECTED_COLOR Value="#49494C" />
+  <MV_BORDER_TAB_POPUP_BOTTOM_SELECTED_COLOR Value="#2D2D2E" />
+  <MV_BORDER_TAB_POPUP_LEFT_SELECTED_COLOR Value="qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #49494C, stop: 1 #2D2D2F)" />
+  <MV_BG_TAB_POPUP_NORMAL_COLOR Value="#202021" /><!-- 탭 off -->
+  <MV_BORDER_TAB_POPUP_TOP_NORMAL_COLOR Value="#202021" />
+  <MV_BORDER_TAB_POPUP_BOTTOM_NORMAL_COLOR Value="#19191A" />
+  <MV_BORDER_TAB_POPUP_LEFT_NORMAL_COLOR Value="qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #202021, stop: 1 #19191A)" />
+  <MV_BG_TAB_POPUP_SUB_SELECTED_COLOR Value="#252526" /><!-- 서브탭 on -->
+  <MV_BORDER_TAB_POPUP_SUB_TOP_SELECTED_COLOR Value="#202021" />
+  <MV_BORDER_TAB_POPUP_SUB_BOTTOM_SELECTED_COLOR Value="#202021" />
+  <MV_BORDER_TAB_POPUP_SUB_SIDE_SELECTED_COLOR Value="#202021" />
+  
+
+  <!--Renderer-->
+  <MV_LIGHT_SHADOW_COLOR R="0.0" G="0.0" B="0.0" A="0" />
+  <MV_BG_LIST_HOVER_COLOR Value="#25272A" />
+  <MV_BG_THUMBNAIL_HOVER_COLOR Value="#36414C" />
+  
+  <!-- Modular Design -->
+  <MV_BG_BLOCK_TEMPLATE_HOVER_COLOR Value="#323233" />
+  <MV_BG_BLOCK_TEMPLATE_SELECTED_COLOR Value="#3A3A3C" />
+  <MV_BG_BLOCK_TEMPLATE_ITEM_HOVER_COLOR Value="#3e3e40" />
+  <MV_BG_BLOCK_TEMPLATE_ITEM_SELECTED_COLOR Value="#3e3e40" />
+  <MV_BG_CATEGORY_NORMAL_COLOR Value="#4A4A4D" />
+  <MV_BG_CATEGORY_SPACING_COLOR Value= "#252526" />
+  <MV_BG_BLOCK_ITEM_LIST_COLOR Value="#3D3D40" />
+  <MV_BG_BLOCK_GROUP_HOVER_COLOR Value="#373738" />
+  <MV_BG_BLOCK_GROUP_SELECTED_COLOR Value="#252526 " />
+  <MV_BG_BLOCK_GROUP_LIST_COLOR Value="#202021" />
+  <MV_BORDER_BLOCK_GROUP_SELECTED_COLOR Value="#46C7FF" />
+  
+  <!-- Physical Property Emulator -->
+  <MV_PPE_BG_1DEPTH_COLOR Value="#2D2D2E" />
+  <MV_PPE_BG_2DEPTH_COLOR Value="#252526" />
+  <MV_PPE_STEPBAR_ON_STYLE Value="color: #989898; font: 11px" />
+  <MV_PPE_STEPBAR_OFF_STYLE Value="color: #575759; font: 11px" />
+  <MV_PPE_ACTIVATE_LABEL_TEXT_COLOR Value="#ffffff" />
+  <MV_PPE_DEACTIVATE_LABEL_TEXT_COLOR Value="#424245" />
+</Style>

@@ -1,0 +1,34 @@
+{
+"fieldList" : ["styleNumber", "name", "description", "price", "size", "fabric", "category", "colorway", "memo", "sizeChart", "sizeMemo", "pattern", "styleSeason"],
+"dependencyList" : {},
+"uiTypeList" : 
+{
+"styleNumber" : "Line Edit",
+"name" : "Line Edit",
+"description" : "Text Edit",
+"price" : "Line Edit",
+"size" : "Grading",
+"fabric" : "Line Edit",
+"category" : "ComboBox / ComboBox",
+"colorway" : "Label / ComboBox",
+"memo" : "Text Edit",
+"sizeChart" : "Chart",
+"sizeMemo" : "Text Edit",
+"pattern" : "Line Edit",
+"styleSeason" : "Line Edit",
+},
+"presetList" : 
+{
+"category" : 
+{
+"main" : ["None", "Top", "Bottom", "One-Piece, Set", "Outer", "Accessories"],
+"None" : ["None"],
+"Top" : ["None", "Vests", "Sweaters", "Shirts", "Polos", "T-Shirts"],
+"Bottom" : ["None", "Skirts", "Pants", "Leggings"],
+"One-Piece, Set" : ["None", "Suits", "Dresses", "Jumpsuits", "Swimsuits", "Sleepwear", "Underwear"],
+"Outer" : ["None", "Cardigans", "Jackets", "Jumpers", "Coats"],
+"Accessories" : ["None", "Caps", "Hats", "Sunglasses", "Jewels", "Ties", "Scarves", "Bags", "Belts", "Gloves", "Socks", "Shoes"],
+},
+"sizeChart" : ["None"],
+}
+}

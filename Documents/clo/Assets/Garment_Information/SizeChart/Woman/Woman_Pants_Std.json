@@ -1,0 +1,11 @@
+{ 
+"sizeChartType" : "Woman", 
+"sizeChartName" : "Pants Standard", 
+"sizeData" : 
+{ 
+"sizeList" : [ "XS", "S", "M", "L", "XL" ],
+"bust" : [  ], 
+"waist" : [ 63.5, 70.0, 79.0, 86.5, 91.0 ],
+"hip" : [ 86.36, 93.98, 101.6, 109.22, 114.3 ]
+} 
+}

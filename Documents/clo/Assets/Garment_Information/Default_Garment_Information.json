@@ -1,0 +1,12 @@
+{
+"styleNumber" : "",
+"name" : "",
+  "description": "",
+  "season":  "",
+"fabric" : "",
+"colorway" : "",
+"size" : "",
+"pattern" : "",
+"styleSeason" : "",
+"ItemOrder" : [ "styleNumber", "name", "description", "season", "fabric", "colorway", "size", "pattern", "styleSeason" ]
+}

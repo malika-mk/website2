@@ -1,0 +1,11 @@
+{ 
+"sizeChartType" : "Man", 
+"sizeChartName" : "Pants_EU", 
+"sizeData" : 
+{ 
+"sizeList" : [ "XS", "S", "M", "L", "XL", "2XL" ], 
+"bust" : [  ], 
+"waist" : [ 70.0, 75.0, 80.0, 85.0, 90.0, 97.5 ],
+"hip" : [ 90.0, 96.0, 102.0, 108.0, 114.0, 120.0 ]
+} 
+}

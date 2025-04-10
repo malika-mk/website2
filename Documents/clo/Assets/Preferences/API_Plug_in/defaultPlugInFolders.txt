@@ -1,0 +1,2 @@
+C:\default_plugin_folder1
+C:\default_plugin_folder2
